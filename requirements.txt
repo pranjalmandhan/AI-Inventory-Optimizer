@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+prophet
+opencv-python-headless
+pandas
+numpy
