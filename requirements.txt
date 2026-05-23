@@ -4,3 +4,4 @@ prophet
 opencv-python-headless
 pandas
 numpy
+pillow
